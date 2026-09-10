@@ -1,0 +1,11 @@
+# Logs
+*.log
+
+# Temp / Scratch
+scratch/
+
+# IDE
+.vscode/
+
+# Local scripts
+get-hash.js
